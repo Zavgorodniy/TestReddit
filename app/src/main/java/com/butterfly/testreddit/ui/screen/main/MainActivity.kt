@@ -1,7 +1,8 @@
-package com.butterfly.testreddit
+package com.butterfly.testreddit.ui.screen.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.butterfly.testreddit.R
 
 class MainActivity : AppCompatActivity() {
 
